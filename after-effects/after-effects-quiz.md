@@ -67,7 +67,7 @@
 
 #### Q10. How can you render a file in the background and keep working in After Effects?
 
-- [ ] Click File > Export > Add to Adobe Media Encoder Queue.
+- [x] Click File > Export > Add to Adobe Media Encoder Queue.
 - [ ] Click File > Watch Folders.
 - [ ] Click File > Export > Background Render.
 - [ ] Click File > Export > Add to Render Queue.
@@ -84,7 +84,7 @@
 
 - [ ] Command+click (Mac) or Ctrl+click (Windows) a property in the Timeline to add it to the Essential Graphics panel.
 - [ ] Select Add Formatting.
-- [ ] Drag a property from the Timeline into the Essential Graphics panel.
+- [x] Drag a property from the Timeline into the Essential Graphics panel.
 - [ ] Double-click a property in the Timeline to add it to the Essential Graphics panel.
 
 #### Q13. You have applied the Auto Levels effect but notice flickering in the results. How can you reduce this?
@@ -119,36 +119,36 @@
 
 - [ ] Click File > Scripts > Double-Up.jsx.
 - [ ] Link all layers and then change the composition settings.
-- [ ] Click File > Scripts > Scale Composition.jsx.
+- [x] Click File > Scripts > Scale Composition.jsx.
 - [ ] In the Composition Settings dialog box, scale the composition dimensions and the layers will scale to match.
 
 #### Q18. Holding the Shift key when rotating a 3D layer constrains the rotation to how many degrees?
 
 - [ ] 20
 - [ ] 30
-- [ ] 45
+- [x] 45
 - [ ] 15
 
 #### Q19. How can you choose which frame of a composition to show as a thumbnail image for the composition in the Project panel?
 
 - [ ] Select the desired frame in the Composition Settings dialog box.
-- [ ] Move the playhead to the desired frame and click Composition > Set Poster Time.
+- [x] Move the playhead to the desired frame and click Composition > Set Poster Time.
 - [ ] You cannot change the thumbnail image.You cannot change the thumbnail image.
 - [ ] From the Render Queue, go to Render Settings to set the thumbnail image.
 
 #### Q20. When you want to add properties to the Essential Graphics panel, how can you easily see only the supported properties?
 
 - [ ] Type "PP" twice with the Timeline panel active.
-- [ ] Click the Solo Supported Properties button in the Essential Graphics panel.
+- [x] Click the Solo Supported Properties button in the Essential Graphics panel.
 - [ ] Switch to the Essential Graphics workspace.
 - [ ] All properties are supported by the Essential Graphics panel.
 
 #### Q21. You want to take an existing layer and make it into two separate layers. How can you do this so the separation occurs at the playhead?
 
-- [x] Click Layer > Split Layer.
+- [ ] Click Layer > Split Layer.
 - [ ] Click Edit > Duplicate.
 - [ ] Click Edit > Extract Work Area.
-- [ ] Click Edit > Split Layer.
+- [x] Click Edit > Split Layer.
 
 #### Q22. How can you create a single composition from multiple footage items?
 
